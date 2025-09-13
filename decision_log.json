@@ -1,0 +1,759 @@
+{"timestamp": "2025-08-22T09:00:37.071096", "rps": 0.0, "instances": 1, "memory_mb": 3269.0546875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:00:42.088636", "rps": 0.0, "instances": 1, "memory_mb": 3199.6484375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:00:47.103514", "rps": 0.0, "instances": 1, "memory_mb": 3244.35546875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:00:52.122578", "rps": 0.0, "instances": 1, "memory_mb": 3249.22265625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:00:57.200035", "rps": 130.8, "instances": 1, "memory_mb": 3248.4765625, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:01:02.243855", "rps": 58.8, "instances": 1, "memory_mb": 3246.7265625, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:01:07.258425", "rps": 0.0, "instances": 1, "memory_mb": 3245.38671875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:01:12.273021", "rps": 0.0, "instances": 1, "memory_mb": 3207.1875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:01:17.286939", "rps": 0.0, "instances": 1, "memory_mb": 3216.27734375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:01:22.301576", "rps": 0.0, "instances": 1, "memory_mb": 3198.0078125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:01:27.313927", "rps": 0.0, "instances": 1, "memory_mb": 3135.3203125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:01:32.326521", "rps": 0.0, "instances": 1, "memory_mb": 3155.2734375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:01:37.338700", "rps": 0.0, "instances": 1, "memory_mb": 3049.3828125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:01:42.358708", "rps": 0.0, "instances": 1, "memory_mb": 3008.546875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:01:47.373880", "rps": 0.0, "instances": 1, "memory_mb": 3128.21484375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:01:52.554445", "rps": 754.0, "instances": 1, "memory_mb": 3130.859375, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:01:57.934689", "rps": 711.2, "instances": 1, "memory_mb": 3101.875, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:02:03.167760", "rps": 438.4, "instances": 1, "memory_mb": 3046.4375, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:02:08.429278", "rps": 365.8, "instances": 1, "memory_mb": 3008.01953125, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:02:14.369305", "rps": 207.4, "instances": 1, "memory_mb": 2691.69921875, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:02:19.547193", "rps": 289.6, "instances": 1, "memory_mb": 2757.359375, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:02:24.742456", "rps": 503.0, "instances": 1, "memory_mb": 2799.76171875, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:02:29.887290", "rps": 604.6, "instances": 1, "memory_mb": 2815.53125, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:02:34.901911", "rps": 0.0, "instances": 1, "memory_mb": 2841.625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:02:39.916044", "rps": 0.0, "instances": 1, "memory_mb": 2826.88671875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:02:44.946078", "rps": 0.0, "instances": 1, "memory_mb": 2669.58203125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:02:49.961733", "rps": 0.0, "instances": 1, "memory_mb": 2778.41796875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:02:55.006964", "rps": 100.0, "instances": 1, "memory_mb": 2941.60546875, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:03:00.020304", "rps": 0.0, "instances": 1, "memory_mb": 2963.14453125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:03:05.033297", "rps": 0.0, "instances": 1, "memory_mb": 2967.6328125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:03:10.049315", "rps": 0.0, "instances": 1, "memory_mb": 2954.2890625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:27:04.352735", "rps": 0.0, "instances": 1, "memory_mb": 2297.59765625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:27:09.370454", "rps": 0.0, "instances": 1, "memory_mb": 2305.625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:30:34.006817", "rps": 0.0, "instances": 1, "memory_mb": 1883.625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:30:39.026655", "rps": 0.0, "instances": 1, "memory_mb": 1885.90234375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:30:44.058061", "rps": 0.0, "instances": 1, "memory_mb": 1898.484375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:30:50.437188", "rps": 100.0, "instances": 2, "memory_mb": 1994.75390625, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-22T09:30:56.676813", "rps": 0.0, "instances": 1, "memory_mb": 1937.08203125, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-22T09:31:01.703610", "rps": 0.0, "instances": 1, "memory_mb": 1966.03125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:31:06.723573", "rps": 0.0, "instances": 1, "memory_mb": 1977.87109375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:31:11.757367", "rps": 0.0, "instances": 1, "memory_mb": 1996.40234375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:31:18.514553", "rps": 200.0, "instances": 2, "memory_mb": 2008.64453125, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-22T09:31:25.002919", "rps": 0.0, "instances": 1, "memory_mb": 1916.06640625, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-22T09:31:30.021007", "rps": 0.0, "instances": 1, "memory_mb": 1926.3046875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:31:35.046197", "rps": 0.0, "instances": 1, "memory_mb": 1940.6171875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:32:50.307117", "rps": 0.0, "instances": 1, "memory_mb": 1610.0, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:32:55.338260", "rps": 0.0, "instances": 1, "memory_mb": 1750.33984375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:33:00.367822", "rps": 0.0, "instances": 1, "memory_mb": 1747.97265625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:33:05.393353", "rps": 0.0, "instances": 1, "memory_mb": 1769.76171875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:33:10.521968", "rps": 400.0, "instances": 1, "memory_mb": 1699.04296875, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:33:15.540505", "rps": 0.0, "instances": 1, "memory_mb": 1736.24609375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:33:20.568931", "rps": 0.0, "instances": 1, "memory_mb": 1800.83984375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:33:25.590097", "rps": 0.0, "instances": 1, "memory_mb": 1797.890625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:33:30.617664", "rps": 0.0, "instances": 1, "memory_mb": 1812.2578125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:33:35.632557", "rps": 0.0, "instances": 1, "memory_mb": 1849.796875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:33:40.653458", "rps": 0.0, "instances": 1, "memory_mb": 1776.515625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:33:45.673246", "rps": 0.0, "instances": 1, "memory_mb": 1825.25390625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:34:19.544646", "rps": 0.0, "instances": 1, "memory_mb": 2220.0703125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:34:24.704099", "rps": 390.0, "instances": 1, "memory_mb": 2236.2890625, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:34:29.732524", "rps": 0.0, "instances": 1, "memory_mb": 2266.23046875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:34:34.757171", "rps": 0.0, "instances": 1, "memory_mb": 2268.50390625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:34:39.902388", "rps": 98.6, "instances": 1, "memory_mb": 2264.703125, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:34:44.932398", "rps": 0.0, "instances": 1, "memory_mb": 2297.4765625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:34:49.959480", "rps": 0.0, "instances": 1, "memory_mb": 2298.30859375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:34:54.977318", "rps": 0.0, "instances": 1, "memory_mb": 2301.4375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:39:13.011087", "rps": 0.0, "instances": 1, "memory_mb": 1784.671875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:39:18.110753", "rps": 100.0, "instances": 1, "memory_mb": 1827.83984375, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:39:23.131451", "rps": 0.0, "instances": 1, "memory_mb": 1843.7109375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:39:28.273425", "rps": 400.0, "instances": 1, "memory_mb": 1830.19140625, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:39:33.300235", "rps": 0.0, "instances": 1, "memory_mb": 1845.09765625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:39:38.479285", "rps": 917.0, "instances": 1, "memory_mb": 1840.88671875, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:39:43.680850", "rps": 1040.2, "instances": 1, "memory_mb": 1790.37890625, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:39:48.944042", "rps": 1135.4, "instances": 1, "memory_mb": 1810.87890625, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:39:54.144708", "rps": 811.4, "instances": 1, "memory_mb": 1820.99609375, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:39:59.170700", "rps": 0.0, "instances": 1, "memory_mb": 1820.55078125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:40:04.197327", "rps": 0.0, "instances": 1, "memory_mb": 1809.50390625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:40:16.673621", "rps": 0.0, "instances": 1, "memory_mb": 2161.109375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:40:21.754886", "rps": 100.0, "instances": 1, "memory_mb": 2195.109375, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:40:26.783348", "rps": 0.0, "instances": 1, "memory_mb": 2233.26953125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:40:31.910983", "rps": 400.0, "instances": 1, "memory_mb": 2245.984375, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:40:36.934264", "rps": 0.0, "instances": 1, "memory_mb": 2234.75390625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:40:42.058637", "rps": 540.0, "instances": 1, "memory_mb": 2246.13671875, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:40:47.278799", "rps": 1070.8, "instances": 1, "memory_mb": 2197.70703125, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:40:52.515982", "rps": 1245.2, "instances": 1, "memory_mb": 2225.375, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:40:57.744571", "rps": 1043.0, "instances": 1, "memory_mb": 2237.734375, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T09:41:02.780001", "rps": 0.0, "instances": 1, "memory_mb": 2241.5078125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T09:41:07.805739", "rps": 0.0, "instances": 1, "memory_mb": 2234.3515625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T18:52:34.732958", "rps": 0.0, "instances": 1, "memory_mb": 1472.37890625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T18:52:39.884538", "rps": 82.4, "instances": 1, "memory_mb": 1331.8203125, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T18:52:45.050273", "rps": 127.6, "instances": 1, "memory_mb": 1329.89453125, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T18:52:50.299790", "rps": 341.0, "instances": 1, "memory_mb": 1455.2578125, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T18:52:55.479499", "rps": 498.0, "instances": 1, "memory_mb": 1475.62109375, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T18:53:00.720847", "rps": 412.6, "instances": 1, "memory_mb": 1468.5078125, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T18:53:05.913868", "rps": 539.6, "instances": 1, "memory_mb": 1433.16796875, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T18:53:11.311392", "rps": 468.8, "instances": 1, "memory_mb": 1372.20703125, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T18:53:16.492844", "rps": 233.0, "instances": 1, "memory_mb": 1432.3515625, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T18:53:21.748220", "rps": 438.2, "instances": 1, "memory_mb": 1429.04296875, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T18:53:26.940444", "rps": 592.4, "instances": 1, "memory_mb": 1427.62109375, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T18:53:32.023061", "rps": 165.2, "instances": 1, "memory_mb": 1446.8828125, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T18:53:37.044777", "rps": 0.0, "instances": 1, "memory_mb": 1466.40234375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T18:53:42.143499", "rps": 0.0, "instances": 1, "memory_mb": 1446.94140625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T18:53:47.162176", "rps": 0.0, "instances": 1, "memory_mb": 1445.3125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T18:53:52.180195", "rps": 0.0, "instances": 1, "memory_mb": 1421.46484375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T18:53:57.200503", "rps": 0.0, "instances": 1, "memory_mb": 1410.0078125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T18:54:02.229968", "rps": 0.0, "instances": 1, "memory_mb": 1366.78515625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T18:54:07.341443", "rps": 200.0, "instances": 1, "memory_mb": 1370.88671875, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-22T18:54:12.373897", "rps": 0.0, "instances": 1, "memory_mb": 1419.48828125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T18:54:17.417426", "rps": 0.0, "instances": 1, "memory_mb": 1445.99609375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T18:54:22.440532", "rps": 0.0, "instances": 1, "memory_mb": 1472.53515625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T18:54:27.470457", "rps": 0.0, "instances": 1, "memory_mb": 1465.15234375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T18:59:16.942290", "rps": 0.0, "instances": 1, "memory_mb": 1572.01171875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T18:59:28.739812", "rps": 173.4, "instances": 2, "memory_mb": 1572.421875, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-22T18:59:35.929012", "rps": 12.8, "instances": 3, "memory_mb": 1484.45703125, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-22T18:59:44.020159", "rps": 0.0, "instances": 2, "memory_mb": 1322.109375, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-22T18:59:51.081197", "rps": 0.0, "instances": 1, "memory_mb": 1577.89453125, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-22T18:59:56.100701", "rps": 0.0, "instances": 1, "memory_mb": 1566.50390625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T19:00:01.118256", "rps": 0.0, "instances": 1, "memory_mb": 1509.98046875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T19:00:09.119495", "rps": 400.0, "instances": 2, "memory_mb": 1523.1015625, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-22T19:00:16.443660", "rps": 0.0, "instances": 1, "memory_mb": 1459.01171875, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-22T19:00:21.463364", "rps": 0.0, "instances": 1, "memory_mb": 1508.9609375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T19:16:31.240774", "rps": 0.0, "instances": 1, "memory_mb": 1564.52734375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T19:16:39.720351", "rps": 200.0, "instances": 2, "memory_mb": 1577.03125, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-22T19:16:47.198815", "rps": 0.0, "instances": 1, "memory_mb": 1376.72265625, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-22T19:16:52.220330", "rps": 0.0, "instances": 1, "memory_mb": 1478.43359375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T19:16:57.237338", "rps": 0.0, "instances": 1, "memory_mb": 1444.37109375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T19:17:04.001233", "rps": 400.0, "instances": 2, "memory_mb": 1438.84375, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-22T19:17:15.331981", "rps": 0.0, "instances": 1, "memory_mb": 1504.76171875, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-22T19:17:20.356844", "rps": 0.0, "instances": 1, "memory_mb": 1536.1171875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T20:44:30.374701", "rps": 274.4, "instances": 2, "memory_mb": 1289.48046875, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-22T20:44:36.867229", "rps": 0.0, "instances": 1, "memory_mb": 1231.87890625, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-22T20:44:41.892162", "rps": 0.0, "instances": 1, "memory_mb": 1249.29296875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T20:44:46.923326", "rps": 0.0, "instances": 1, "memory_mb": 1196.5078125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T20:44:53.633958", "rps": 200.0, "instances": 2, "memory_mb": 1201.265625, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-22T20:44:59.917350", "rps": 0.0, "instances": 1, "memory_mb": 1185.87890625, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-22T20:45:04.947766", "rps": 0.0, "instances": 1, "memory_mb": 1198.00390625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T20:45:12.187603", "rps": 100.0, "instances": 2, "memory_mb": 1187.72265625, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-22T20:45:18.595698", "rps": 0.0, "instances": 1, "memory_mb": 1070.2421875, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-22T23:00:30.916474", "rps": 0.0, "instances": 1, "memory_mb": 1448.30859375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T23:00:35.937879", "rps": 0.0, "instances": 1, "memory_mb": 1668.3515625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T23:00:45.675985", "rps": 634.6, "instances": 2, "memory_mb": 1735.203125, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-22T23:00:54.623105", "rps": 235.6, "instances": 3, "memory_mb": 1751.46484375, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-22T23:01:02.593355", "rps": 679.8, "instances": 4, "memory_mb": 1699.56640625, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-22T23:01:08.609623", "rps": 0.0, "instances": 3, "memory_mb": 1488.6796875, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-22T23:01:14.791444", "rps": 0.0, "instances": 2, "memory_mb": 1523.5234375, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-22T23:01:22.277798", "rps": 0.0, "instances": 1, "memory_mb": 1559.81640625, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-22T23:01:27.293677", "rps": 0.0, "instances": 1, "memory_mb": 1585.1796875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-22T23:01:32.303577", "rps": 0.0, "instances": 1, "memory_mb": 1608.51171875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:17:42.691757", "rps": 0.0, "instances": 1, "memory_mb": 1802.2890625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:17:47.723076", "rps": 0.0, "instances": 1, "memory_mb": 1836.21484375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:17:52.763656", "rps": 0.0, "instances": 1, "memory_mb": 1841.11328125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:17:57.788659", "rps": 0.0, "instances": 1, "memory_mb": 1849.48046875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:18:02.847010", "rps": 16.8, "instances": 1, "memory_mb": 1855.8125, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-23T09:18:08.059943", "rps": 1504.0, "instances": 1, "memory_mb": 1735.42578125, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-23T09:18:13.187435", "rps": 442.8, "instances": 1, "memory_mb": 1698.5234375, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-23T09:18:18.217612", "rps": 0.0, "instances": 1, "memory_mb": 1664.97265625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:18:23.235556", "rps": 0.0, "instances": 1, "memory_mb": 1642.80859375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:18:28.250833", "rps": 0.0, "instances": 1, "memory_mb": 1617.62109375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:18:33.274947", "rps": 0.0, "instances": 1, "memory_mb": 1641.51171875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:18:38.300976", "rps": 0.0, "instances": 1, "memory_mb": 1586.94140625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:18:43.320302", "rps": 0.0, "instances": 1, "memory_mb": 1672.8125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:18:48.345009", "rps": 0.0, "instances": 1, "memory_mb": 1713.9609375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:18:53.367931", "rps": 0.0, "instances": 1, "memory_mb": 1664.26171875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:18:58.383455", "rps": 0.0, "instances": 1, "memory_mb": 1683.984375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:19:03.398136", "rps": 0.0, "instances": 1, "memory_mb": 1719.80859375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:19:08.417093", "rps": 0.0, "instances": 1, "memory_mb": 1724.39453125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:19:13.437563", "rps": 0.0, "instances": 1, "memory_mb": 1762.875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:19:18.462993", "rps": 0.0, "instances": 1, "memory_mb": 1890.67578125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:19:23.485273", "rps": 0.0, "instances": 1, "memory_mb": 1890.85546875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:19:28.513110", "rps": 0.0, "instances": 1, "memory_mb": 1890.984375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:19:33.526171", "rps": 0.0, "instances": 1, "memory_mb": 1909.80859375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:19:38.544839", "rps": 0.0, "instances": 1, "memory_mb": 1850.6484375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:19:43.555409", "rps": 0.0, "instances": 1, "memory_mb": 1887.72265625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:19:48.578059", "rps": 0.0, "instances": 1, "memory_mb": 1852.55078125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:19:53.592762", "rps": 0.0, "instances": 1, "memory_mb": 1848.65625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:19:58.604997", "rps": 0.0, "instances": 1, "memory_mb": 1849.65625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:20:03.618432", "rps": 0.0, "instances": 1, "memory_mb": 1861.8125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:20:08.635541", "rps": 0.0, "instances": 1, "memory_mb": 1817.5, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:20:13.649988", "rps": 0.0, "instances": 1, "memory_mb": 1862.76171875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:20:18.670954", "rps": 0.0, "instances": 1, "memory_mb": 1887.5625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:20:23.685146", "rps": 0.0, "instances": 1, "memory_mb": 1893.0, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:20:28.701067", "rps": 0.0, "instances": 1, "memory_mb": 1702.0703125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:20:33.722181", "rps": 0.0, "instances": 1, "memory_mb": 1743.55078125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:20:38.749042", "rps": 0.0, "instances": 1, "memory_mb": 1814.08984375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:20:43.767325", "rps": 0.0, "instances": 1, "memory_mb": 1838.390625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:20:48.783610", "rps": 0.0, "instances": 1, "memory_mb": 1815.84375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:20:53.802755", "rps": 0.0, "instances": 1, "memory_mb": 1804.796875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:20:58.817654", "rps": 0.0, "instances": 1, "memory_mb": 1847.49609375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:21:03.833774", "rps": 0.0, "instances": 1, "memory_mb": 1842.2734375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:21:08.853988", "rps": 0.0, "instances": 1, "memory_mb": 1833.31640625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:21:13.876929", "rps": 0.0, "instances": 1, "memory_mb": 1848.58984375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:21:18.895936", "rps": 0.0, "instances": 1, "memory_mb": 1836.2421875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:44:37.763525", "rps": 0.0, "instances": 1, "memory_mb": 2021.0, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:44:42.778787", "rps": 0.0, "instances": 1, "memory_mb": 2093.62890625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:44:47.913474", "rps": 812.6, "instances": 1, "memory_mb": 2240.625, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-23T09:44:53.037306", "rps": 637.6, "instances": 1, "memory_mb": 2218.40234375, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-23T09:44:58.269802", "rps": 1197.2, "instances": 1, "memory_mb": 2172.26171875, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-23T09:45:03.444727", "rps": 1139.0, "instances": 1, "memory_mb": 2182.91796875, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-23T09:45:08.639403", "rps": 1129.2, "instances": 1, "memory_mb": 2145.67578125, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-23T09:45:13.834226", "rps": 961.8, "instances": 1, "memory_mb": 2185.1171875, "action": "Simulaci\u00f3n de escalamiento vertical", "reason": "RPS alto pero memoria insuficiente"}
+{"timestamp": "2025-08-23T09:45:18.845940", "rps": 0.0, "instances": 1, "memory_mb": 2177.42578125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:45:23.861113", "rps": 0.0, "instances": 1, "memory_mb": 2107.078125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:45:28.871644", "rps": 0.0, "instances": 1, "memory_mb": 2081.0234375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:45:33.879785", "rps": 0.0, "instances": 1, "memory_mb": 2087.58203125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:45:38.893679", "rps": 0.0, "instances": 1, "memory_mb": 1856.56640625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T09:45:43.905382", "rps": 0.0, "instances": 1, "memory_mb": 1878.46875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:49:55.230251", "rps": 0.0, "instances": 1, "memory_mb": 1570.92578125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:50:00.256771", "rps": 0.0, "instances": 1, "memory_mb": 1872.3515625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:50:05.268625", "rps": 0.0, "instances": 1, "memory_mb": 1878.9765625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:50:40.564952", "rps": 0.0, "instances": 1, "memory_mb": 1814.234375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:50:45.572728", "rps": 0.0, "instances": 1, "memory_mb": 1931.046875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:57:52.467001", "rps": 100.0, "instances": 2, "memory_mb": 1622.63671875, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T10:57:58.574888", "rps": 0.0, "instances": 1, "memory_mb": 1527.91796875, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T10:58:03.596564", "rps": 0.0, "instances": 1, "memory_mb": 1536.6875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:58:09.770746", "rps": 100.0, "instances": 2, "memory_mb": 1477.5859375, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T10:58:15.711800", "rps": 0.0, "instances": 1, "memory_mb": 1460.5859375, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T10:58:20.735941", "rps": 0.0, "instances": 1, "memory_mb": 1494.30859375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:58:25.762483", "rps": 0.0, "instances": 1, "memory_mb": 1488.1953125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:58:30.784000", "rps": 0.0, "instances": 1, "memory_mb": 1483.81640625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:58:35.813132", "rps": 0.0, "instances": 1, "memory_mb": 1477.75, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:58:40.840602", "rps": 0.0, "instances": 1, "memory_mb": 1509.58203125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:58:45.866384", "rps": 0.0, "instances": 1, "memory_mb": 1509.125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:58:50.893204", "rps": 0.0, "instances": 1, "memory_mb": 1631.95703125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:58:55.915218", "rps": 0.0, "instances": 1, "memory_mb": 1626.86328125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:59:00.936646", "rps": 0.0, "instances": 1, "memory_mb": 1625.953125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:59:05.971020", "rps": 0.0, "instances": 1, "memory_mb": 1630.2578125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T10:59:10.989671", "rps": 0.0, "instances": 1, "memory_mb": 1662.25390625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:19:43.316438", "rps": 0.0, "instances": 1, "memory_mb": 1422.3046875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:19:48.338708", "rps": 0.0, "instances": 1, "memory_mb": 1624.40234375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:19:54.983130", "rps": 117.8, "instances": 2, "memory_mb": 1550.65625, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:20:01.509723", "rps": 1662.6, "instances": 3, "memory_mb": 1538.84375, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:20:08.125177", "rps": 1712.0, "instances": 4, "memory_mb": 1453.48828125, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:20:14.772432", "rps": 1420.2, "instances": 5, "memory_mb": 1373.83203125, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:20:21.044713", "rps": 0.0, "instances": 4, "memory_mb": 1813.97265625, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:20:27.207798", "rps": 0.0, "instances": 3, "memory_mb": 1802.82421875, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:20:33.363929", "rps": 0.0, "instances": 2, "memory_mb": 1749.97265625, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:20:39.626929", "rps": 0.0, "instances": 1, "memory_mb": 1772.9609375, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:20:44.642827", "rps": 0.0, "instances": 1, "memory_mb": 1848.7109375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:20:49.658802", "rps": 0.0, "instances": 1, "memory_mb": 1837.359375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:22:10.297665", "rps": 4143.2, "instances": 2, "memory_mb": 1713.1484375, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:22:16.922223", "rps": 1402.8, "instances": 3, "memory_mb": 1684.796875, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:22:24.881184", "rps": 1296.6, "instances": 4, "memory_mb": 1557.16796875, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:22:31.763379", "rps": 1425.4, "instances": 5, "memory_mb": 1559.21875, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:22:36.957291", "rps": 1654.0, "instances": 5, "memory_mb": 1480.5234375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:22:42.161700", "rps": 1655.0, "instances": 5, "memory_mb": 1531.125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:22:47.487054", "rps": 1513.4, "instances": 5, "memory_mb": 1531.91796875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:22:52.929201", "rps": 1409.8, "instances": 5, "memory_mb": 1370.17578125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:23:43.580814", "rps": 3900.6, "instances": 2, "memory_mb": 1534.43359375, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:23:50.224806", "rps": 1304.2, "instances": 3, "memory_mb": 1562.5703125, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:23:56.920536", "rps": 1136.2, "instances": 4, "memory_mb": 1503.29296875, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:24:03.569037", "rps": 1604.0, "instances": 5, "memory_mb": 1439.07421875, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:24:10.716246", "rps": 1192.2, "instances": 6, "memory_mb": 1344.359375, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:24:17.778423", "rps": 1070.2, "instances": 7, "memory_mb": 1322.09765625, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:24:23.327425", "rps": 1282.6, "instances": 7, "memory_mb": 1179.75, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:24:28.496680", "rps": 1079.2, "instances": 7, "memory_mb": 1281.92578125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:24:33.712493", "rps": 1430.8, "instances": 7, "memory_mb": 1320.72265625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:24:39.253276", "rps": 1242.0, "instances": 7, "memory_mb": 1077.1171875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:24:44.469479", "rps": 1106.2, "instances": 7, "memory_mb": 1106.734375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:24:49.654753", "rps": 1229.8, "instances": 7, "memory_mb": 1735.4375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:24:54.852210", "rps": 982.6, "instances": 7, "memory_mb": 1715.12109375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:25:00.049295", "rps": 1409.6, "instances": 7, "memory_mb": 1708.55078125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:25:05.256587", "rps": 1429.8, "instances": 7, "memory_mb": 1717.50390625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:25:10.388060", "rps": 329.4, "instances": 7, "memory_mb": 1723.41796875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:25:16.997967", "rps": 0.0, "instances": 6, "memory_mb": 1648.96484375, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:26:09.420726", "rps": 0.0, "instances": 1, "memory_mb": 1625.14453125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:26:18.034350", "rps": 592.4, "instances": 2, "memory_mb": 1626.98046875, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:26:25.212003", "rps": 1332.6, "instances": 3, "memory_mb": 1622.09375, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:26:32.199613", "rps": 1551.4, "instances": 4, "memory_mb": 1640.03125, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:26:38.839425", "rps": 1433.6, "instances": 5, "memory_mb": 1588.828125, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:26:46.263922", "rps": 1300.6, "instances": 6, "memory_mb": 1602.21875, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:26:56.802634", "rps": 1313.4, "instances": 7, "memory_mb": 1534.30859375, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:27:03.965973", "rps": 1271.8, "instances": 8, "memory_mb": 1495.08203125, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:27:09.174368", "rps": 1279.4, "instances": 8, "memory_mb": 1422.0546875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:27:14.373483", "rps": 1334.2, "instances": 8, "memory_mb": 1477.91015625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:27:19.632150", "rps": 1250.2, "instances": 8, "memory_mb": 1460.82421875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:27:24.905262", "rps": 762.0, "instances": 8, "memory_mb": 1440.9296875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:27:30.065953", "rps": 1150.2, "instances": 8, "memory_mb": 1584.5078125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:27:36.028449", "rps": 813.4, "instances": 8, "memory_mb": 1325.41796875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:27:41.136957", "rps": 177.0, "instances": 8, "memory_mb": 1145.7265625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:27:46.346372", "rps": 722.8, "instances": 8, "memory_mb": 1158.9453125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:27:51.514750", "rps": 975.8, "instances": 8, "memory_mb": 1147.7890625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:27:57.927160", "rps": 0.0, "instances": 7, "memory_mb": 1139.11328125, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:28:04.388552", "rps": 0.0, "instances": 6, "memory_mb": 1152.08984375, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:28:10.575303", "rps": 0.0, "instances": 5, "memory_mb": 1189.07421875, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:28:17.047281", "rps": 0.0, "instances": 4, "memory_mb": 1300.8515625, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:28:24.074049", "rps": 0.0, "instances": 3, "memory_mb": 1275.08203125, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:28:30.281461", "rps": 0.0, "instances": 2, "memory_mb": 1339.60546875, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:28:36.459078", "rps": 0.0, "instances": 1, "memory_mb": 1369.30078125, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:28:41.482247", "rps": 0.0, "instances": 1, "memory_mb": 1385.84375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:28:46.496866", "rps": 0.0, "instances": 1, "memory_mb": 1421.59765625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:28:51.568921", "rps": 0.0, "instances": 1, "memory_mb": 1419.72265625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:28:56.594341", "rps": 0.0, "instances": 1, "memory_mb": 1403.36328125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:29:01.624852", "rps": 0.0, "instances": 1, "memory_mb": 1419.8984375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:29:06.646654", "rps": 0.0, "instances": 1, "memory_mb": 1339.0390625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:29:11.670504", "rps": 0.0, "instances": 1, "memory_mb": 1644.4140625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:29:18.416803", "rps": 1513.2, "instances": 2, "memory_mb": 1857.9609375, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:29:24.879621", "rps": 66.6, "instances": 3, "memory_mb": 1732.4765625, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:29:31.075225", "rps": 0.0, "instances": 2, "memory_mb": 1731.78515625, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:29:37.216334", "rps": 0.0, "instances": 1, "memory_mb": 1691.80859375, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:29:42.239501", "rps": 0.0, "instances": 1, "memory_mb": 1759.65234375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:31:10.400152", "rps": 0.0, "instances": 1, "memory_mb": 1676.265625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:31:15.470517", "rps": 0.0, "instances": 1, "memory_mb": 1672.4765625, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:31:22.850765", "rps": 1058.6, "instances": 2, "memory_mb": 1683.42578125, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:31:29.383296", "rps": 1259.6, "instances": 3, "memory_mb": 1642.89453125, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:31:36.057698", "rps": 1721.8, "instances": 4, "memory_mb": 1664.30859375, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:31:43.518623", "rps": 1501.8, "instances": 5, "memory_mb": 1592.6328125, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:31:50.945958", "rps": 1126.8, "instances": 6, "memory_mb": 1503.828125, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:31:58.326528", "rps": 721.6, "instances": 7, "memory_mb": 1468.6875, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:32:05.746646", "rps": 1268.0, "instances": 8, "memory_mb": 1383.3984375, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:32:10.942262", "rps": 1277.4, "instances": 8, "memory_mb": 1318.29296875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:32:16.141888", "rps": 1296.0, "instances": 8, "memory_mb": 1287.85546875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:44:04.013929", "rps": 5965.0, "instances": 2, "memory_mb": 1024, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:44:10.474137", "rps": 1039.6, "instances": 3, "memory_mb": 1024, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:44:17.055109", "rps": 1571.8, "instances": 4, "memory_mb": 1024, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:44:25.840970", "rps": 1477.8, "instances": 5, "memory_mb": 1024, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:44:32.758349", "rps": 1513.0, "instances": 6, "memory_mb": 1024, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:44:40.333457", "rps": 1541.4, "instances": 7, "memory_mb": 1024, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:44:47.231733", "rps": 1615.0, "instances": 8, "memory_mb": 1024, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T11:44:52.580472", "rps": 1599.2, "instances": 8, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:44:57.691311", "rps": 877.0, "instances": 8, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:45:02.858625", "rps": 1490.2, "instances": 8, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:45:08.012688", "rps": 1256.2, "instances": 8, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:45:13.245675", "rps": 1442.4, "instances": 8, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:45:18.401211", "rps": 1267.6, "instances": 8, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:45:23.632891", "rps": 1175.2, "instances": 8, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:45:29.883518", "rps": 0.0, "instances": 7, "memory_mb": 1024, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:45:36.245496", "rps": 0.0, "instances": 6, "memory_mb": 1024, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:45:42.584348", "rps": 0.0, "instances": 5, "memory_mb": 1024, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:45:49.206003", "rps": 0.0, "instances": 4, "memory_mb": 1024, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:45:55.415289", "rps": 0.0, "instances": 3, "memory_mb": 1024, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:46:01.766876", "rps": 0.0, "instances": 2, "memory_mb": 1024, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:46:08.061134", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T11:46:13.085998", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:46:18.107709", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:46:23.123429", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:46:28.144275", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:46:33.158474", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:46:38.175052", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:46:43.196006", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:46:48.210207", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:46:53.227318", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:46:58.242477", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:47:03.259287", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:47:08.275377", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:47:13.295641", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:47:18.306790", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:47:23.364704", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:47:28.385555", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:47:33.405676", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:47:38.420077", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:47:43.443332", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:47:48.468485", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:47:53.486777", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:47:58.507105", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:48:03.522811", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:48:08.538000", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:48:13.560095", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:48:18.587268", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:48:23.607359", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:48:28.642144", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:48:33.662651", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:48:38.681371", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:48:43.713790", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:48:48.739501", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:48:53.762752", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:48:58.812377", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:49:03.918374", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:49:08.946722", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:49:13.977515", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:49:19.000557", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:49:24.017310", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:49:29.039785", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:49:34.063587", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:49:39.087470", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:49:44.113925", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:49:49.136395", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:49:54.160733", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:49:59.184281", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:50:04.205899", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:50:09.230654", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:50:14.251684", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:50:19.284945", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:50:24.310802", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:50:29.335398", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:50:34.364431", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:50:39.388804", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:50:44.412865", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:50:49.436104", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:50:54.469678", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:50:59.495121", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:51:04.522945", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:51:09.550621", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:51:14.570116", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:51:19.587363", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:51:24.624810", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:51:29.645815", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:51:34.667395", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:51:39.694407", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:51:44.719976", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:51:49.745508", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:51:54.761225", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:51:59.781944", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:52:04.815224", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:52:09.840863", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:52:14.861559", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:52:19.887164", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:52:24.913903", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:52:29.935793", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:52:34.959754", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:52:39.991662", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:52:45.014582", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:52:50.038088", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:52:55.064096", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:53:00.086091", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:53:05.113273", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:53:10.139383", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:53:15.155434", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:53:20.182173", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:53:25.206384", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:53:30.227442", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:53:35.258829", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:53:40.282363", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:53:45.304707", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:53:50.331122", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:53:55.354922", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:54:00.377417", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:54:05.401973", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:54:10.425989", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:54:15.455784", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:54:20.479119", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:54:25.509831", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:54:30.533367", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:54:35.556262", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:54:40.590976", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:54:45.610573", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:54:50.641366", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:54:55.666393", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:55:00.685696", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:55:05.718073", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:55:10.742587", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:55:15.770829", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:55:20.799695", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:55:25.825067", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:55:30.853041", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:55:35.872632", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:55:40.893765", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:55:45.913899", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:55:50.956403", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:55:55.980677", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:56:01.005249", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T11:56:06.041353", "rps": 0.0, "instances": 1, "memory_mb": 1024, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:45:47.305283", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:45:52.343422", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:45:57.369335", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:46:02.448494", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:46:07.475196", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:46:12.497819", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:46:17.517800", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:46:22.539811", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:47:02.074489", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:47:07.093648", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:47:12.122218", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:47:17.158291", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:47:22.185719", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:47:27.208645", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:47:32.285949", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:47:37.303597", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:49:13.774010", "rps": 0.4, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:49:18.801870", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:49:26.428563", "rps": 664.4, "instances": 2, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T20:49:36.680229", "rps": 741.4, "instances": 3, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T20:49:44.048039", "rps": 71.6, "instances": 4, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T20:49:50.285081", "rps": 0.0, "instances": 3, "memory_mb": 800, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T20:49:56.726108", "rps": 0.0, "instances": 2, "memory_mb": 800, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T20:50:03.255685", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T20:50:08.272829", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:50:28.282942", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:50:33.315062", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:50:48.242205", "rps": 571.2, "instances": 2, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T20:50:59.114631", "rps": 363.8, "instances": 3, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T20:51:10.077155", "rps": 558.4, "instances": 4, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T20:51:20.081389", "rps": 320.6, "instances": 5, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T20:51:30.888258", "rps": 430.4, "instances": 6, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T20:51:42.336282", "rps": 567.2, "instances": 7, "memory_mb": 900, "action": "Escalamiento horizontal forzado", "reason": "L\u00edmite de memoria aumentado a 900 MB"}
+{"timestamp": "2025-08-23T20:51:51.472921", "rps": 267.0, "instances": 8, "memory_mb": 1000, "action": "Escalamiento horizontal forzado", "reason": "L\u00edmite de memoria aumentado a 1000 MB"}
+{"timestamp": "2025-08-23T20:51:56.659148", "rps": 492.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:52:01.933170", "rps": 579.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:52:07.137679", "rps": 413.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:52:12.362016", "rps": 268.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:52:17.642480", "rps": 327.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:52:22.888145", "rps": 451.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:52:28.205032", "rps": 356.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:52:33.502004", "rps": 358.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:52:38.900394", "rps": 349.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:52:44.271624", "rps": 193.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:52:49.473194", "rps": 265.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:52:54.694412", "rps": 262.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:52:59.874266", "rps": 294.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T20:53:05.076153", "rps": 399.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:02:39.709890", "rps": 9711.4, "instances": 2, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T21:02:45.765866", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T21:02:50.794919", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:02:55.819432", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:03:00.852669", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:03:07.901147", "rps": 634.2, "instances": 2, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T21:03:15.661986", "rps": 986.0, "instances": 3, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T21:03:23.262455", "rps": 1188.0, "instances": 4, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T21:03:33.482300", "rps": 563.4, "instances": 5, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T21:03:47.749057", "rps": 363.8, "instances": 6, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-23T21:04:03.509987", "rps": 388.6, "instances": 7, "memory_mb": 900, "action": "Escalamiento horizontal forzado", "reason": "L\u00edmite de memoria aumentado a 900 MB"}
+{"timestamp": "2025-08-23T21:04:17.059848", "rps": 391.6, "instances": 8, "memory_mb": 1000, "action": "Escalamiento horizontal forzado", "reason": "L\u00edmite de memoria aumentado a 1000 MB"}
+{"timestamp": "2025-08-23T21:04:22.254731", "rps": 491.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:04:27.499499", "rps": 626.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:04:32.651212", "rps": 531.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:04:37.874630", "rps": 729.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:04:43.002688", "rps": 480.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:04:48.166615", "rps": 597.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:04:53.473304", "rps": 685.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:04:58.683492", "rps": 584.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:05:03.848381", "rps": 715.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:05:09.168710", "rps": 716.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:05:14.470590", "rps": 542.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:05:19.635995", "rps": 711.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:05:24.850688", "rps": 629.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:05:30.031379", "rps": 593.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:05:35.376314", "rps": 691.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:05:40.645209", "rps": 564.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:05:45.824964", "rps": 591.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:05:51.073761", "rps": 765.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:05:56.325973", "rps": 658.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:06:01.722501", "rps": 610.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:06:06.846076", "rps": 434.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:06:13.451901", "rps": 0.0, "instances": 7, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T21:06:19.956930", "rps": 0.0, "instances": 6, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T21:06:26.353009", "rps": 0.0, "instances": 5, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T21:06:32.741000", "rps": 0.0, "instances": 4, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T21:06:39.718640", "rps": 0.0, "instances": 3, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T21:06:46.077664", "rps": 0.0, "instances": 2, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T21:06:52.569932", "rps": 0.0, "instances": 1, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-23T21:06:57.593180", "rps": 0.0, "instances": 1, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:07:02.614511", "rps": 0.0, "instances": 1, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:07:07.640458", "rps": 0.0, "instances": 1, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:07:12.664156", "rps": 0.0, "instances": 1, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:19:15.354654", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:19:20.397048", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:19:25.419149", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-23T21:19:30.437771", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:30:20.682741", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:30:25.689602", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:30:30.695815", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:30:35.699769", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:32:57.533363", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:33:05.651905", "rps": 1017.0, "instances": 2, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-30T08:33:12.456947", "rps": 1503.8, "instances": 3, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-30T08:33:18.761288", "rps": 698.6, "instances": 4, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-30T08:33:24.798827", "rps": 0.0, "instances": 3, "memory_mb": 800, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-30T08:33:30.874823", "rps": 0.0, "instances": 2, "memory_mb": 800, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-30T08:33:36.877117", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-30T08:33:41.883815", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:33:46.893295", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:33:51.903683", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:33:56.910161", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:34:01.916575", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:34:08.357366", "rps": 1023.4, "instances": 2, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-30T08:34:15.084805", "rps": 1650.0, "instances": 3, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-30T08:34:21.688044", "rps": 1463.2, "instances": 4, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-30T08:34:28.992688", "rps": 1592.2, "instances": 5, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-30T08:34:36.615728", "rps": 991.6, "instances": 6, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-08-30T08:34:44.105444", "rps": 1450.6, "instances": 7, "memory_mb": 900, "action": "Escalamiento horizontal forzado", "reason": "L\u00edmite de memoria aumentado a 900 MB"}
+{"timestamp": "2025-08-30T08:34:51.357713", "rps": 1369.0, "instances": 8, "memory_mb": 1000, "action": "Escalamiento horizontal forzado", "reason": "L\u00edmite de memoria aumentado a 1000 MB"}
+{"timestamp": "2025-08-30T08:34:56.539420", "rps": 1313.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:35:01.738620", "rps": 1400.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:35:06.851708", "rps": 711.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:35:12.054158", "rps": 1483.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:35:17.276224", "rps": 1228.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:35:22.677013", "rps": 1353.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:35:28.820755", "rps": 0.0, "instances": 7, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-30T08:35:35.167723", "rps": 0.0, "instances": 6, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-30T08:35:41.258892", "rps": 0.0, "instances": 5, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-30T08:35:47.461890", "rps": 0.0, "instances": 4, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-30T08:35:53.654426", "rps": 0.0, "instances": 3, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-30T08:35:59.774109", "rps": 0.0, "instances": 2, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-30T08:36:05.933006", "rps": 0.0, "instances": 1, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-08-30T08:36:10.938354", "rps": 0.0, "instances": 1, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:36:15.945259", "rps": 0.0, "instances": 1, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-08-30T08:36:20.951052", "rps": 0.0, "instances": 1, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T21:54:38.203311", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T21:54:43.212408", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T21:54:48.218586", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T22:11:38.323336", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T22:11:43.330830", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T22:11:48.336478", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T22:11:53.345556", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T22:11:58.355810", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T22:12:05.997397", "rps": 671.2, "instances": 2, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T22:12:18.777232", "rps": 887.4, "instances": 3, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T22:12:27.715906", "rps": 228.2, "instances": 4, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T22:12:36.753028", "rps": 357.0, "instances": 5, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T22:12:46.347894", "rps": 489.6, "instances": 6, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T22:12:55.778137", "rps": 168.0, "instances": 7, "memory_mb": 900, "action": "Escalamiento horizontal forzado", "reason": "L\u00edmite de memoria aumentado a 900 MB"}
+{"timestamp": "2025-09-05T22:13:04.964907", "rps": 610.2, "instances": 8, "memory_mb": 1000, "action": "Escalamiento horizontal forzado", "reason": "L\u00edmite de memoria aumentado a 1000 MB"}
+{"timestamp": "2025-09-05T22:13:10.187544", "rps": 615.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T22:13:15.380332", "rps": 657.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T22:13:20.556704", "rps": 289.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:26:36.699454", "rps": 13195.2, "instances": 2, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T23:26:44.905865", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-09-05T23:26:49.916679", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:26:54.922780", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:27:04.696048", "rps": 157.2, "instances": 2, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T23:27:14.665895", "rps": 204.6, "instances": 3, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T23:27:28.187478", "rps": 320.6, "instances": 4, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T23:27:38.310067", "rps": 305.2, "instances": 5, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T23:27:47.977100", "rps": 401.6, "instances": 6, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T23:27:53.279665", "rps": 231.8, "instances": 6, "memory_mb": 717.7734375, "action": "Escalamiento fallido", "reason": "Memoria insuficiente incluso tras aumentar a 900 MB"}
+{"timestamp": "2025-09-05T23:28:03.293698", "rps": 176.2, "instances": 7, "memory_mb": 900, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T23:28:12.177022", "rps": 476.0, "instances": 8, "memory_mb": 1000, "action": "Escalamiento horizontal forzado", "reason": "L\u00edmite de memoria aumentado a 1000 MB"}
+{"timestamp": "2025-09-05T23:28:17.398899", "rps": 626.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:28:22.814055", "rps": 646.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:28:28.028567", "rps": 364.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:28:33.179226", "rps": 681.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:28:38.363319", "rps": 670.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:28:43.550521", "rps": 571.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:28:48.898428", "rps": 738.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:28:54.185494", "rps": 464.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:28:59.434820", "rps": 284.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:29:34.453790", "rps": 1630.4, "instances": 2, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T23:29:44.265830", "rps": 463.8, "instances": 3, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T23:29:55.423628", "rps": 514.8, "instances": 4, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T23:30:05.427768", "rps": 328.0, "instances": 5, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T23:30:14.565535", "rps": 424.6, "instances": 6, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T23:30:24.676394", "rps": 665.6, "instances": 7, "memory_mb": 900, "action": "Escalamiento horizontal forzado", "reason": "L\u00edmite de memoria aumentado a 900 MB"}
+{"timestamp": "2025-09-05T23:30:33.953782", "rps": 316.2, "instances": 8, "memory_mb": 1000, "action": "Escalamiento horizontal forzado", "reason": "L\u00edmite de memoria aumentado a 1000 MB"}
+{"timestamp": "2025-09-05T23:30:39.125479", "rps": 522.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:30:44.402915", "rps": 839.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:30:49.583169", "rps": 663.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:30:54.924664", "rps": 358.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:31:00.171390", "rps": 411.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:31:05.373795", "rps": 641.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:31:10.518299", "rps": 582.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:31:15.717956", "rps": 765.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:31:20.898347", "rps": 785.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:31:26.073568", "rps": 350.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:31:31.228701", "rps": 666.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:31:36.408972", "rps": 723.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:31:41.558310", "rps": 668.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:31:46.730262", "rps": 829.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:31:51.938906", "rps": 704.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:31:57.105680", "rps": 238.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:32:02.238419", "rps": 465.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:32:07.410635", "rps": 539.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:32:12.691421", "rps": 460.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:32:17.829027", "rps": 340.2, "instances": 8, "memory_mb": 911.2578125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:32:23.097656", "rps": 221.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:32:28.221682", "rps": 108.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:32:33.362127", "rps": 460.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:32:38.649100", "rps": 593.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:32:43.833265", "rps": 611.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:32:48.994136", "rps": 547.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:32:54.397846", "rps": 483.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:32:59.516298", "rps": 461.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:33:04.778740", "rps": 831.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:33:09.939368", "rps": 663.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:33:15.182987", "rps": 795.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:33:20.367001", "rps": 756.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:33:25.528380", "rps": 330.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:33:30.720228", "rps": 589.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:33:35.958824", "rps": 610.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:33:41.110666", "rps": 640.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:33:46.359265", "rps": 704.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:33:51.557643", "rps": 721.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:33:56.669402", "rps": 322.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:34:01.919294", "rps": 625.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:34:07.162164", "rps": 438.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:34:12.478503", "rps": 526.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:34:17.766768", "rps": 806.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:34:23.089072", "rps": 679.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:34:28.237950", "rps": 422.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:34:33.417016", "rps": 628.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:34:38.614054", "rps": 742.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:34:43.846530", "rps": 713.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:34:49.030811", "rps": 650.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:34:54.432432", "rps": 494.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:34:59.570705", "rps": 448.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:35:04.769537", "rps": 840.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:35:09.994766", "rps": 649.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:35:15.394256", "rps": 866.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:35:20.606410", "rps": 442.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:35:25.790195", "rps": 305.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:35:30.922701", "rps": 457.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:35:36.162524", "rps": 720.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:35:41.370164", "rps": 708.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:35:46.651628", "rps": 855.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:35:51.910343", "rps": 746.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:35:57.082872", "rps": 240.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:36:02.236014", "rps": 496.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:36:07.435520", "rps": 633.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:36:12.637141", "rps": 780.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:36:17.983101", "rps": 838.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:36:23.241245", "rps": 607.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:36:28.407806", "rps": 400.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:36:33.598155", "rps": 709.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:36:38.805820", "rps": 742.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:36:44.051764", "rps": 693.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:59:40.265778", "rps": 20631.8, "instances": 2, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-05T23:59:48.026150", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-09-05T23:59:53.032479", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-05T23:59:58.036732", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:00:03.040162", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:00:08.045525", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:00:13.049512", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:00:18.054197", "rps": 0.0, "instances": 1, "memory_mb": 800, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:00:28.856432", "rps": 1080.0, "instances": 2, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-06T00:00:37.866715", "rps": 400.8, "instances": 3, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-06T00:00:47.160439", "rps": 601.8, "instances": 4, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-06T00:01:01.140721", "rps": 479.2, "instances": 5, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-06T00:01:12.525312", "rps": 261.4, "instances": 6, "memory_mb": 800, "action": "Escalamiento horizontal", "reason": "RPS alto y memoria suficiente"}
+{"timestamp": "2025-09-06T00:01:25.125600", "rps": 322.2, "instances": 7, "memory_mb": 900, "action": "Escalamiento horizontal forzado", "reason": "L\u00edmite de memoria aumentado a 900 MB"}
+{"timestamp": "2025-09-06T00:01:36.269082", "rps": 230.8, "instances": 8, "memory_mb": 1000, "action": "Escalamiento horizontal forzado", "reason": "L\u00edmite de memoria aumentado a 1000 MB"}
+{"timestamp": "2025-09-06T00:01:41.480286", "rps": 339.4, "instances": 8, "memory_mb": 993.796875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:01:46.760460", "rps": 371.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:01:51.896646", "rps": 445.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:01:57.126449", "rps": 278.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:02:02.286701", "rps": 504.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:02:07.449893", "rps": 688.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:02:12.648012", "rps": 609.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:02:17.826144", "rps": 560.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:02:23.454783", "rps": 765.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:02:28.567861", "rps": 297.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:02:33.745612", "rps": 769.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:02:38.982803", "rps": 692.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:02:44.162374", "rps": 754.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:02:49.371938", "rps": 666.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:02:54.727096", "rps": 613.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:02:59.909301", "rps": 451.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:03:05.068316", "rps": 625.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:03:10.339341", "rps": 558.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:03:15.555860", "rps": 545.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:03:20.771535", "rps": 239.0, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:03:26.004530", "rps": 218.4, "instances": 8, "memory_mb": 841.52734375, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:03:31.117545", "rps": 173.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:03:36.260531", "rps": 396.2, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:03:41.461452", "rps": 644.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:03:46.699688", "rps": 453.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:03:51.842993", "rps": 348.0, "instances": 8, "memory_mb": 984.203125, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:03:57.200540", "rps": 146.8, "instances": 8, "memory_mb": 945.96875, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:04:02.341560", "rps": 314.8, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:04:07.532813", "rps": 507.6, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:04:12.593355", "rps": 339.4, "instances": 8, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:04:18.684970", "rps": 0.0, "instances": 7, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-09-06T00:04:26.258563", "rps": 0.0, "instances": 6, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-09-06T00:04:32.844371", "rps": 0.0, "instances": 5, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-09-06T00:04:39.022611", "rps": 0.0, "instances": 4, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-09-06T00:04:45.184485", "rps": 0.0, "instances": 3, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-09-06T00:04:56.819284", "rps": 0.0, "instances": 2, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-09-06T00:05:04.822814", "rps": 0.0, "instances": 1, "memory_mb": 1000, "action": "Desescalamiento", "reason": "RPS bajo, reduciendo instancias"}
+{"timestamp": "2025-09-06T00:05:09.843600", "rps": 0.0, "instances": 1, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:05:14.847186", "rps": 0.0, "instances": 1, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:05:19.853321", "rps": 0.0, "instances": 1, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:05:24.893847", "rps": 0.0, "instances": 1, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
+{"timestamp": "2025-09-06T00:05:29.917284", "rps": 0.0, "instances": 1, "memory_mb": 1000, "action": "Sin acci\u00f3n", "reason": "RPS dentro del rango aceptable"}
